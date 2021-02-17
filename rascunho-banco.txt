@@ -1,0 +1,28 @@
+clients:
+- id
+- name
+- email
+- telephone
+- cpf
+
+transactions:
+- id
+- id_client
+- id_evaluation
+- id_contributor
+- id_store
+- date
+
+evaluations:
+- id
+- note
+- comment
+
+contributors:
+- id
+- name
+
+stores:
+- id
+- name
+
